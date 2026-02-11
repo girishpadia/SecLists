@@ -7548,6 +7548,7 @@ tests/unit/Core/Framework/Log/Monolog/ExcludeExceptionHandlerTest.php
 tests/unit/Core/Framework/Log/LoggingServiceTest.php
 tests/unit/Core/Framework/Log/PackageTest.php
 tests/unit/Core/Framework/Log/ExceptionLoggerTest.php
+tests/unit/Core/Framework/Sso/Controller/SsoControllerTest.php
 tests/unit/Core/Framework/Sso/LoginResponseServiceTest.php
 tests/unit/Core/Framework/Sso/TokenService/PublicKeyLoaderTest.php
 tests/unit/Core/Framework/Sso/TokenService/ExternalTokenServiceTest.php
@@ -8120,6 +8121,7 @@ tests/unit/Storefront/Theme/Twig/ThemeInheritanceBuilderTest.php
 tests/unit/Storefront/Theme/CompilerConfigurationTest.php
 tests/unit/Storefront/Theme/ThemeFileResolverTest.php
 tests/unit/Storefront/Theme/MockedCacheInvalidator.php
+tests/unit/Storefront/Theme/ThemeConfigValueAccessorTest.php
 tests/unit/Storefront/Theme/StorefrontPluginConfiguration/StorefrontPluginConfigurationTest.php
 tests/unit/Storefront/Theme/StorefrontPluginConfiguration/FileCollectionTest.php
 tests/unit/Storefront/Theme/ThemeFilesystemResolverTest.php
@@ -14094,6 +14096,7 @@ src/Administration/Resources/app/administration/src/app/component/utils/sw-overl
 src/Administration/Resources/app/administration/src/app/component/utils/sw-overlay/sw-overlay.scss
 src/Administration/Resources/app/administration/src/app/component/utils/sw-notifications/index.js
 src/Administration/Resources/app/administration/src/app/component/utils/sw-notifications/sw-notifications.scss
+src/Administration/Resources/app/administration/src/app/component/utils/sw-notifications/sw-notifications.spec.js
 src/Administration/Resources/app/administration/src/app/component/utils/sw-notifications/sw-notifications.html.twig
 src/Administration/Resources/app/administration/src/app/component/utils/sw-skeleton-bar-deprecated/sw-skeleton-bar-deprecated.html.twig
 src/Administration/Resources/app/administration/src/app/component/utils/sw-skeleton-bar-deprecated/index.ts
@@ -21727,6 +21730,7 @@ src/Storefront/Resources/app/storefront/test/plugin/add-to-cart/add-to-cart.plug
 src/Storefront/Resources/app/storefront/test/plugin/ajax-modal/ajax-modal.plugin.test.js
 src/Storefront/Resources/app/storefront/test/plugin/quantity-selector/quantity-selector.plugin.test.js
 src/Storefront/Resources/app/storefront/test/plugin/buy-box/buy-box.plugin.test.js
+src/Storefront/Resources/app/storefront/test/plugin/alert-aria/alert-aria.plugin.test.js
 src/Storefront/Resources/app/storefront/test/plugin/zoom-modal/zoom-modal.plugin.test.js
 src/Storefront/Resources/app/storefront/test/plugin/offcanvas-tabs/offcanvas-tabs.plugin.test.js
 src/Storefront/Resources/app/storefront/test/plugin/cms-video/cms-video.plugin.test.js
@@ -22376,6 +22380,7 @@ src/Storefront/Resources/app/storefront/src/plugin/add-to-cart/add-to-cart.plugi
 src/Storefront/Resources/app/storefront/src/plugin/ajax-modal/ajax-modal.plugin.js
 src/Storefront/Resources/app/storefront/src/plugin/quantity-selector/quantity-selector.plugin.js
 src/Storefront/Resources/app/storefront/src/plugin/buy-box/buy-box.plugin.js
+src/Storefront/Resources/app/storefront/src/plugin/alert-aria/alert-aria.plugin.js
 src/Storefront/Resources/app/storefront/src/plugin/zoom-modal/zoom-modal.plugin.js
 src/Storefront/Resources/app/storefront/src/plugin/offcanvas-tabs/offcanvas-tabs.plugin.js
 src/Storefront/Resources/app/storefront/src/plugin/cms-video/cms-video.plugin.js
