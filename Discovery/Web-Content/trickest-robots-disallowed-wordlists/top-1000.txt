@@ -363,7 +363,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 .ssi$
 .svg
 .svg
-.svghttp://diigo.com/robots.txt
+.svghttp://discogs.com/robots.txt
 .swf$
 .swf$
 .sxg
@@ -971,7 +971,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /business/aisearch
 /business/availability
 /business/availability/?context
-/business/availability/?context=http://help.twitter.com/robots.txt
+/business/availability/?context=http://hertason.blogspot.com/robots.txt
 /business/availability?context
 /business/availability?context=
 /business/search
@@ -2532,7 +2532,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?*adxarea=
 ?*ajax=
 ?*ajs_event
-?*apikey*http://vogue.com/robots.txt
+?*apikey*http://vox.com/robots.txt
 ?*app
 ?*attachment_id
 ?*author
@@ -2728,6 +2728,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?app=
 ?articleno=
 ?aspectratio=
+?at_
 ?attachment_id=
 ?attachment_id=*
 ?attribute_key
@@ -2970,7 +2971,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?list=wall
 ?location=
 ?ls=
-?maca=
 ?mark=google_shopping
 ?maspect
 ?mediaId=
@@ -5380,7 +5380,7 @@ api/federation
 api/fetch/mc-anon
 api/getrecjobs
 api/graphql
-api/http://creatoracademy.youtube.com/robots.txt
+api/http://creativecommons.org/robots.txt
 api/internal/*/location
 api/jobPostings/jobs
 api/maps/
@@ -6489,7 +6489,7 @@ blog/*?text=
 blog/*sitemap.xml$
 blog/*utm_source=
 blog/.
-blog/.html.*http://s3.amazonaws.com/robots.txt
+blog/.html.*http://samsung.com/robots.txt
 blog/10-lessons-from-an-engineering-manager/$
 blog/2025-shifting-roles-report/$
 blog/2026-ai-report/$
@@ -8070,7 +8070,7 @@ cdn-cgi
 cdn-cgi/
 cdn-cgi/bm/cv
 cdn-cgi/challenge-platform
-cdn-cgi/http://media.ccc.de/robots.txt
+cdn-cgi/http://merriam-webster.com/robots.txt
 cdn-cgi/images/trace
 cdn-cgi/l/email-protection
 cdn-cgi/rum
@@ -8237,7 +8237,7 @@ checkForm=
 checkout
 checkout-external
 checkout/package
-checkouthttp://money.cnn.com/robots.txt
+checkouthttp://moderncalculators.com/robots.txt
 checkoutnow
 checkouts
 checkpoint
@@ -8988,6 +8988,8 @@ confirm?
 confirmDelete?
 confirm_mention
 confirm_unsubscribe
+confirmed$
+confirmed?
 conflagexp
 connect
 connect/@
@@ -9152,7 +9154,7 @@ content/search
 content/telegraph
 content/temp/*
 content/websites/languages
-content/websites/us/en/noindex/*http://x.com/robots.txt
+content/websites/us/en/noindex/*http://xcelab.net/robots.txt
 content_reporting
 content_title=
 contest
@@ -9682,6 +9684,7 @@ de-de/blog/how-to-design-agentic-tools-for-work/$
 de-de/blog/how-to-get-the-most-out-of-teams/$
 de-de/blog/how-to-streamline-your-design-system-workflow-in-figma/$
 de-de/blog/how-we-built-ai-search-in-figma/$
+de-de/blog/improving-performance-in-the-layers-panel/$
 de-de/blog/in-good-company-agencies-freelancers/$
 de-de/blog/in-good-company-retailers/$
 de-de/blog/infrastructure/$
@@ -11465,6 +11468,7 @@ en/funding?
 en/group
 en/help/126238-pricing-faqs-legacy-guide
 en/help/142642-old-vs-new-pricing
+en/internaljustice/files
 en/library?
 en/microsoft-365
 en/microsoft-365/
@@ -11551,7 +11555,6 @@ enterprise-store
 enterprise/$
 enterprise/plan/$
 enterprise/seo
-entertainment
 entertainment/are-bill-burr-and-billy-corgan-brothers
 entertainment/best-2000s-movies-to-watch-with-your-kids
 entertainment/best-artsy-movies-for-kids
@@ -12271,6 +12274,7 @@ environment/ets
 envoyer-par-email
 en~us/
 ep-live/
+ep_filter_
 epaper
 erasmus-plus/404_en.htm
 err404.php
@@ -12407,6 +12411,7 @@ es-es/blog/gpt-5-6-is-now-available-in-figma-make/$
 es-es/blog/hiring/$
 es-es/blog/how-to-design-agentic-tools-for-work/$
 es-es/blog/how-to-harness-skills-that-ai-cant-automate/$
+es-es/blog/improving-performance-in-the-layers-panel/$
 es-es/blog/in-good-company-agencies-freelancers/$
 es-es/blog/in-good-company-retailers/$
 es-es/blog/increased-ipo-price-range/$
@@ -12914,6 +12919,7 @@ es-la/blog/got-skills-make-the-figma-agent-a-better-collaborator/$
 es-la/blog/gpt-5-6-is-now-available-in-figma-make/$
 es-la/blog/how-to-design-agentic-tools-for-work/$
 es-la/blog/how-to-harness-skills-that-ai-cant-automate/$
+es-la/blog/improving-performance-in-the-layers-panel/$
 es-la/blog/in-good-company-agencies-freelancers/$
 es-la/blog/in-good-company-retailers/$
 es-la/blog/increased-ipo-price-range/$
@@ -13903,7 +13909,7 @@ fastanswers
 fatalerror.html
 faves-i_love_u_get_away_from_me
 favicon.ico
-favicon.icohttp://blog.google/robots.txt
+favicon.icohttp://blog.cloudflare.com/robots.txt
 favorit-hinzufuegen
 favorit-loeschen
 favorites?
@@ -14096,7 +14102,7 @@ files/resources
 fileview
 filing
 filing/free-file-fillable-forms/free-file-fillable-forms-support
-filing/free-file-fillable-forms/free-file-fillable-forms-support-2http://iso.org/robots.txt
+filing/free-file-fillable-forms/free-file-fillable-forms-support-2http://issuu.com/robots.txt
 filter.searchKeyword=
 filter/
 filter/tips
@@ -14125,7 +14131,7 @@ find-the-name-of-a-song-by-tapping-149288
 find-the-right-bpm-for-your-perfect-running-playlist-wi-5927390
 find-the-right-replacement-nut-or-bolt-via-photo-using-1827785812
 find-the-wifi-password-for-almost-any-airport-lounge-us-1841119770
-find/*http://freepik.com/robots.txt
+find/*http://frontiersin.org/robots.txt
 findCityAjax.htm
 finetune
 fios
@@ -16135,6 +16141,7 @@ fr-fr/blog/how-to-get-the-most-out-of-teams/$
 fr-fr/blog/how-to-harness-skills-that-ai-cant-automate/$
 fr-fr/blog/how-to-streamline-your-design-system-workflow-in-figma/$
 fr-fr/blog/how-we-built-ai-search-in-figma/$
+fr-fr/blog/improving-performance-in-the-layers-panel/$
 fr-fr/blog/in-good-company-agencies-freelancers/$
 fr-fr/blog/in-good-company-retailers/$
 fr-fr/blog/increased-ipo-price-range/$
@@ -17217,6 +17224,8 @@ gma/api
 gnca-ajax-redesign/showcase-image
 go
 go-ahead-be-a-cuck-1848439357
+go-autopilot$
+go-autopilot?
 go-back
 go-back?
 go/
@@ -17398,6 +17407,7 @@ graduation/?s=
 grafico
 grafico-del-dia
 graph
+graph-api
 graphics
 graphique-du-jour
 graphql
@@ -17566,7 +17576,7 @@ health/drugs/ozempic-for-weight-loss
 health/echelon-firmware-subscription-update
 health/equipment-every-home-gym-needs
 health/everything-you-get-with-garmin-connect-plus
-health/files/rhpthttp://inc.com/robots.txt
+health/files/rhpthttp://imgur.com/robots.txt
 health/first-differences-i-noticed-after-upgrading-to-a-peloton-bike-plus
 health/fitbit-charge-6-review
 health/fitbit-new-app-preview-impressions
@@ -18509,9 +18519,9 @@ html5
 http
 http2_data
 http://3.bp.blogspot.com/robots.txt
-http://akparti.org.tr/robots.txt
 http://alexa.com/robots.txt
-http://allaboutcookies.org/robots.txt
+http://aliexpress.com/robots.txt
+http://amazon.co.jp/robots.txt
 http://amazon.co.uk/robots.txt
 http://amazon.com/robots.txt
 http://amazon.de/robots.txt
@@ -18519,34 +18529,34 @@ http://amazon.es/robots.txt
 http://amazon.fr/robots.txt
 http://amazon.in/robots.txt
 http://amazon.it/robots.txt
-http://ameblo.jp/robots.txt
+http://americanexpress.com/robots.txt
 http://apps.apple.com/robots.txt
 http://behance.net/robots.txt
-http://ec.europa.eu/robots.txt
+http://ebay.com/robots.txt
 http://en.m.wikipedia.org/robots.txt
-http://gist.github.com/robots.txt
-http://govostis.gr/robots.txt
+http://github.blog/robots.txt
+http://gravatar.com/robots.txt
 http://groups.google.com/robots.txt
 http://healthline.com/robots.txt
 http://irishtimes.com/robots.txt
-http://kids.youtube.com/robots.txt
-http://nationalgeographic.com/robots.txt
-http://nhs.uk/robots.txt
-http://patnauniversity.ac.in/robots.txt
+http://kickstarter.com/robots.txt
+http://nature.com/robots.txt
+http://newsweek.com/robots.txt
+http://patents.google.com/robots.txt
 http://pixabay.com/robots.txt
 http://seekingalpha.com/robots.txt
 http://smithsonianmag.com/robots.txt
 http://static.wixstatic.com/robots.txt
-http://techradar.com/robots.txt
-http://thelancet.com/robots.txt
-http://threads.net/robots.txt
-http://transparencyreport.google.com/robots.txt
+http://techrepublic.com/robots.txt
+http://themeforest.net/robots.txt
+http://tiktok.com/robots.txt
+http://tracks.arte.tv/robots.txt
 http://upload.wikimedia.org/robots.txt
-http://use.fontawesome.com/robots.txt
-http://vk.com/robots.txt
+http://usnews.com/robots.txt
+http://virustotal.com/robots.txt
 http://w3techs.com/robots.txt
 http://weebly.com/robots.txt
-http://wish.com/robots.txt
+http://wix.com/robots.txt
 https://player.cnevids.com
 https:/www.alibaba.com
 hu
@@ -19595,6 +19605,7 @@ it/assunzioni/job-posts
 it/b
 it/backgrounds
 it/bcn
+it/blog
 it/blog/search
 it/blog/topic
 it/c/*attr_*=
@@ -19903,6 +19914,7 @@ ja-jp/blog/how-to-get-the-most-out-of-teams/$
 ja-jp/blog/how-to-harness-skills-that-ai-cant-automate/$
 ja-jp/blog/how-to-streamline-your-design-system-workflow-in-figma/$
 ja-jp/blog/how-we-built-ai-search-in-figma/$
+ja-jp/blog/improving-performance-in-the-layers-panel/$
 ja-jp/blog/in-good-company-agencies-freelancers/$
 ja-jp/blog/in-good-company-retailers/$
 ja-jp/blog/increased-ipo-price-range/$
@@ -20776,6 +20788,7 @@ ko-kr/blog/got-skills-make-the-figma-agent-a-better-collaborator/$
 ko-kr/blog/gpt-5-6-is-now-available-in-figma-make/$
 ko-kr/blog/how-to-design-agentic-tools-for-work/$
 ko-kr/blog/how-to-harness-skills-that-ai-cant-automate/$
+ko-kr/blog/improving-performance-in-the-layers-panel/$
 ko-kr/blog/in-good-company-agencies-freelancers/$
 ko-kr/blog/in-good-company-retailers/$
 ko-kr/blog/increased-ipo-price-range/$
@@ -22237,7 +22250,7 @@ mre/*.jpg$
 mre/*.js$
 mre/*.pdf$
 mre/*.png$
-mre/*.zip$http://gov.uk/robots.txt
+mre/*.zip$http://googletagmanager.com/robots.txt
 mre/*?
 mre/*@@configuracoes_view
 mre/*@@download/file$
@@ -24430,7 +24443,7 @@ p/*/victory?
 p/*/wiki/*/edit
 p/*/wiki/*/history
 p/*/wiki/browse_tags
-p/*http://soundcloud.com/robots.txt
+p/*http://snapchat.com/robots.txt
 p/*surveyopen
 p/*thm=
 p/_
@@ -24760,7 +24773,6 @@ paid-content/news/selling-stuff-online-what-you-could-be-on-the-hook-for-tax-wis
 paid-content/news/shopping-for-a-major-appliance-let-best-buy-do-the-heavy-lifting
 paid-content/news/streamline-your-weeknight-cooking-routine-with-a-multi-speed-air-fryer
 paid-content/news/switch-to-t-mobile-in-15-minutes-and-get-up-to-800-dollars
-paid-content/news/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts
 paid-content/news/t-mobile-5g-home-internet-offers-a-solution-to-contracts-cords-and-hidden-fees
 paid-content/news/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier
 paid-content/news/the-dell-xps-13-is-subtle-luxury-in-laptop-form
@@ -24770,7 +24782,6 @@ paid-content/news/upgrade-your-summer-content-with-a-portable-digital-camera
 paid-content/news/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save
 paid-content/news/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi
 paid-content/news/why-tax-filers-are-choosing-h-r-block-this-season
-paid-content/news/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai
 paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online
 paid-content/news/why-you-need-an-internet-provider-with-no-data-caps
 paid-posts
@@ -25376,6 +25387,7 @@ popup
 popup?
 popup_manager_priority.cms*
 popup_security.jsp
+popups
 popups/mediaplayer
 popups/popup_gallery
 porady-zawodowe
@@ -25435,7 +25447,7 @@ prefs
 premium
 premium$
 premium/$
-premium/http://msdn.microsoft.com/robots.txt
+premium/http://s3-us-west-2.amazonaws.com/robots.txt
 premiumsupport/iam/
 premiumsupport/knowledge-center/feedback-no/
 premiumsupport/knowledge-center/feedback-yes/
@@ -25497,7 +25509,7 @@ pricing/payment
 pricing/pro
 primeshow*
 print
-print/native/business/banking-finance/topics/wealth-across-borders/article/3357488/retired-businessman-and-lifelong-sailor-trust-anchors-process-building-wealthhttp://search.google.com/robots.txt
+print/native/business/banking-finance/topics/wealth-across-borders/article/3357488/retired-businessman-and-lifelong-sailor-trust-anchors-process-building-wealthhttp://scratch.mit.edu/robots.txt
 print/presented/better-life/career-education/topics/edtalk-harbour-school/article/3199785/rethinking-5-educational-myths-through-experiential-learning-approach
 printView=
 printable/pdf
@@ -25572,7 +25584,7 @@ product-integrations/figma-for-microsoft-teams/$
 product-integrations/google-workspace/$
 product-integrations/zoom/$
 product-managers/$
-product-ratings/http://woocommerce.com/robots.txt
+product-ratings/http://wired.com/robots.txt
 product-reviews/B0069IY63Y
 product/*
 product/electrode/api/logger
@@ -25829,6 +25841,7 @@ pt-br/blog/got-skills-make-the-figma-agent-a-better-collaborator/$
 pt-br/blog/gpt-5-6-is-now-available-in-figma-make/$
 pt-br/blog/how-to-design-agentic-tools-for-work/$
 pt-br/blog/how-to-harness-skills-that-ai-cant-automate/$
+pt-br/blog/improving-performance-in-the-layers-panel/$
 pt-br/blog/in-good-company-agencies-freelancers/$
 pt-br/blog/in-good-company-retailers/$
 pt-br/blog/increased-ipo-price-range/$
@@ -28970,6 +28983,7 @@ solutions/ai-analytics-dashboard-generator/$
 solutions/ai-animated-prototype-generator/$
 solutions/ai-app-builder/$
 solutions/ai-artist-website-builder/$
+solutions/ai-background-remover/$
 solutions/ai-batch-processing/$
 solutions/ai-board-game-generator/$
 solutions/ai-booking-app-builder/$
@@ -28990,6 +29004,7 @@ solutions/ai-coding-agent/$
 solutions/ai-comment-summarizer/$
 solutions/ai-company-website-builder/$
 solutions/ai-component-documentation-generator/$
+solutions/ai-component-namer/$
 solutions/ai-consistent-character-generator/$
 solutions/ai-consulting-website-builder/$
 solutions/ai-contact-manager-app-builder/$
@@ -29024,6 +29039,7 @@ solutions/ai-feature-spec-generator/$
 solutions/ai-financial-dashboard-generator/$
 solutions/ai-fitness-app-builder/$
 solutions/ai-fleet-management-dashboard-generator/$
+solutions/ai-footer-generator/$
 solutions/ai-freelancer-website-builder/$
 solutions/ai-game-generator/$
 solutions/ai-grocery-app-builder/$
@@ -29043,6 +29059,7 @@ solutions/ai-journal-app-builder/$
 solutions/ai-kpi-dashboard-generator/$
 solutions/ai-landing-page-generator/$
 solutions/ai-language-learning-app-builder/$
+solutions/ai-layer-namer/$
 solutions/ai-layout-optimizer/$
 solutions/ai-low-fi-prototype-generator/$
 solutions/ai-marketing-dashboard-generator/$
@@ -29052,6 +29069,7 @@ solutions/ai-meditation-app-builder/$
 solutions/ai-messaging-app-builder/$
 solutions/ai-moodboard-generator/$
 solutions/ai-multi-step-prototype-generator/$
+solutions/ai-navbar-generator/$
 solutions/ai-news-aggregator/$
 solutions/ai-news-app-builder/$
 solutions/ai-news-website-builder/$
@@ -29068,6 +29086,7 @@ solutions/ai-photo-retouching/$
 solutions/ai-photographer-website-builder/$
 solutions/ai-portfolio-website-builder/$
 solutions/ai-prd-generator/$
+solutions/ai-pricing-table-generator/$
 solutions/ai-product-builder/$
 solutions/ai-product-dashboard-generator/$
 solutions/ai-product-photography-generator/$
@@ -29165,11 +29184,13 @@ solutions/image-to-3d-model-ai/$
 solutions/interactive-product-demos/$
 solutions/mobile-ui-game-generator/$
 solutions/mockup-generator/$
+solutions/mockup-to-prototype-converter/$
 solutions/mvp-builder/$
 solutions/previs-tool/$
 solutions/prompt-to-app/$
 solutions/prompt-to-edit/$
 solutions/signup-flow-generator/$
+solutions/sketch-to-figma-converter/$
 solutions/small-business-app-builder/$
 solutions/small-business-website-builder/$
 solutions/solution-providers/program/reseller/adguidelines/
@@ -29846,7 +29867,7 @@ tag
 tag-manager
 tag-manager-360
 tag/
-tag/*+http://dinotim.com/robots.txt
+tag/*+http://digital-strategy.ec.europa.eu/robots.txt
 tag/*/page
 tag/credible
 tag/interaction-card
@@ -31080,7 +31101,7 @@ test2http://eventbrite.co.uk/robots.txt
 test_community
 testfl
 testgpr
-testhttp://moderncalculators.com/robots.txt
+testhttp://moz.com/robots.txt
 testing
 testpage-forhomepage
 tests
@@ -31903,7 +31924,7 @@ ui-images/static-2.116
 ui-images/static-2.193
 ui-images/static-2.92
 uiLoggerAjax
-uiLoggerAjaxhttp://howtogeek.com/robots.txt
+uiLoggerAjaxhttp://hootsuite.com/robots.txt
 uibreakfast
 uie/clk
 uk
@@ -33345,7 +33366,7 @@ wiki/Wikipedia%3AVandalismi_in_corso
 wiki/Wikipedia%3AVandalismusmeldung
 wiki/Wikipedia%3AVandalismusmeldung%2F
 wiki/Wikipedia%3AVermittlungsausschuss
-wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://developer.apple.com/robots.txt
+wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://deepl.com/robots.txt
 wiki/Wikipedia%3AVotes_for_deletion
 wiki/Wikipedia%3AWikiProject_Deletion_sorting
 wiki/Wikipedia%3AWikiProject_Spam
@@ -33543,7 +33564,7 @@ wiki/Wikipedia_talk%3AAbuse_reports
 wiki/Wikipedia_talk%3AAbuse_response
 wiki/Wikipedia_talk%3AAdministrator_electionshttp://en.wikipedia.org/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_electionshttp://engadget.com/robots.txt
-wiki/Wikipedia_talk%3AAdministrator_electionshttp://windows.microsoft.com/robots.txt
+wiki/Wikipedia_talk%3AAdministrator_electionshttp://win.gs/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_recall
 wiki/Wikipedia_talk%3AAdministrator_review
 wiki/Wikipedia_talk%3AAdministrators%27_noticeboard
@@ -33844,7 +33865,7 @@ wp-admin
 wp-admin/
 wp-admin/admin-ajax.php
 wp-admin/admin-ajax.php
-wp-admin/admin-ajax.phphttp://stackoverflow.com/robots.txt
+wp-admin/admin-ajax.phphttp://starbucks.com/robots.txt
 wp-admin/load-scripts.php
 wp-admin/load-styles.php
 wp-adv
@@ -34222,6 +34243,7 @@ zh-hk/web.config
 zh-tw/
 zh/
 zh/ai/圖標生成器/工具
+zh/blog
 zh/consensus-magazine
 zh/event/*/shoutbox
 zh/event/*/shoutbox?
@@ -34339,6 +34361,10 @@ zz-test
 1*?
 1-200-calories-a-day-is-a-starvation-diet-actually-1847936016
 1_fs
+1ccc-training-confirmation--b3f3b$
+1ccc-training-confirmation--b3f3b?
+1ccc-training-registration--aaa3a$
+1ccc-training-registration--aaa3a?
 2
 2*?
 2-fast-2-furious
